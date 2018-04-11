@@ -1,0 +1,255 @@
+@import url(reset.css);
+
+body {
+    background-color: #eee;
+}
+
+    body *,
+    html * {
+        font-family: Arial;
+    }
+
+.Container {
+    width: 960px;
+    margin: 0 auto;
+}
+/* Ust Alan*/
+#Header {
+    padding-top: 20px;
+}
+
+    #Header #Logo {
+        float: left;
+    }
+
+    #Header #Ads {
+        float: right;
+        width: 500px;
+        border: 1px solid #eee;
+        height: 110px;
+        text-align: center;
+    }
+/* Navigasyon*/
+#Nav {
+    background: url(../images/nav-bg.png) repeat-x;
+    margin-top: 20px;
+}
+
+    #Nav ul li {
+        float: left;
+        margin-left: 5px;
+    }
+
+        #Nav ul li.First {
+            margin-left: 0px;
+        }
+
+        #Nav ul li a {
+            font-size: 15px;
+            font-weight: bold;
+            color: #fff;
+            display: block;
+            line-height: 42px;
+            padding: 0 20px;
+        }
+
+        #Nav ul li:hover a {
+            background: url(../images/nav-hover.png) repeat-x;
+        }
+
+#Content {
+    padding-top: 10px;
+}
+
+    #Content .Left {
+        float: left;
+        width: 580px;
+        padding: 0 10px;
+        border: 2px solid #538E08;
+    }
+
+
+        #Content .Left .Article {
+            padding: 10px 0px;
+            border-bottom: 1px solid #538E08;
+        }
+
+            #Content .Left .Article:last-child {
+                border-bottom: none;
+            }
+
+            #Content .Left .Article a {
+                display: block;
+            }
+
+                #Content .Left .Article a > span,
+                #Content .Left .Article > span {
+                    display: block;
+                }
+
+                    #Content .Left .Article a > span.h2,
+                    #Content .Left .Article span.h2 {
+                        font-size: 18px;
+                        color: #444;
+                    }
+
+            #Content .Left .Article .Head {
+                margin-top: 5px;
+            }
+
+                #Content .Left .Article .Head span {
+                    padding-left: 20px;
+                    font-size: 12px;
+                    color: #8C8888;
+                }
+
+                #Content .Left .Article .Head .Date {
+                    background: url(../images/date.png) no-repeat left center;
+                }
+
+                #Content .Left .Article .Head .Author {
+                    background: url(../images/user.png) no-repeat left center;
+                }
+
+                #Content .Left .Article .Head .Category {
+                    background: url(../images/Category.png) no-repeat left center;
+                }
+
+                #Content .Left .Article .Head .Views {
+                    background: url(../images/views.png) no-repeat left center;
+                }
+
+            #Content .Left .Article .Content {
+                margin-top: 10px;
+            }
+
+                #Content .Left .Article .Content > img {
+                    float: left;
+                    margin-right: 10px;
+                }
+
+                #Content .Left .Article .Content > .p {
+                    display: block;
+                    font-size: 14px;
+                    color: #474747;
+                }
+
+    #Content .Right {
+        float: right;
+        width: 310px;
+        border: 2px solid #538E08;
+        padding: 0 10px;
+    }
+
+        #Content .Right > h2 {
+            font-size: 18px;
+            color: #414445;
+            margin-top: 10px;
+        }
+
+        #Content .Right .Article {
+            padding: 10px 0;
+            border-bottom: 1px solid #538E08;
+        }
+
+            #Content .Right .Article:last-child {
+                border-bottom: none;
+            }
+
+            #Content .Right .Article a,
+            #Content .Right .Article a span {
+                display: block;
+            }
+
+            #Content .Right .Article img {
+                float: left;
+                margin-right: 10px;
+                width: 72px;
+                height: 72px;
+            }
+
+            #Content .Right .Article span {
+                font-size: 13px;
+                color: #686867;
+            }
+
+            #Content .Right .Article:hover a span {
+                text-decoration: underline;
+                color: #538E08;
+            }
+
+#Footer {
+    background-color: #252525;
+    padding: 20px;
+    text-align: center;
+    color: #FFF;
+    font-size: 13px;
+    margin-top: 15px;
+    text-shadow: 0px 1px 0px #000;
+}
+
+#Content .Left .Comments {
+    padding: 10px 0;
+}
+
+    #Content .Left .Comments h2 {
+        font-size: 18px;
+        color: #414445;
+    }
+
+    #Content .Left .Comments .Comment {
+        padding: 10px 0;
+    }
+
+        #Content .Left .Comments .Comment img {
+            float: left;
+            margin-right: 10px;
+        }
+
+        #Content .Left .Comments .Comment h3 {
+            font-size: 15px;
+            color: #8C8888;
+            font-weight: bold;
+        }
+
+        #Content .Left .Comments .Comment p {
+            font-size: 14px;
+            color: #8C8888;
+        }
+#Content .Left .SubmitComment{
+    border-top:2px solid #538E08;
+    padding-top:20px
+}
+#Content .Left .SubmitComment td {
+    font-size: 14px;
+    color: #8C8888;
+}
+
+.txtMessage,
+.txtAuthor {
+    width: 400px;
+    padding: 10px;
+    height: 72px;
+    border: 1px solid #dedede;
+    resize: none;
+    font-size: 14px;
+    color: #8C8888;
+    border-radius: 10px;
+}.txtAuthor {
+    width: 400px;
+    padding: 10px;
+    height: 32px;
+}
+.formtd{width:181px}
+
+input[type=submit] {
+    width: 100px;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: #8C8888;
+    border: 1px solid #dedede;
+    border-radius: 10px;
+    margin: 20px auto;
+    float:right
+}

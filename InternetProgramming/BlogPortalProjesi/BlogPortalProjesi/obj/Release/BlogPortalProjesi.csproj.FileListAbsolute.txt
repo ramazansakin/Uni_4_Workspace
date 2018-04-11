@@ -1,0 +1,6 @@
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll.config
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.pdb
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Release\BlogPortalProjesi.csprojResolveAssemblyReference.cache
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Release\BlogPortalProjesi.dll
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Release\BlogPortalProjesi.pdb

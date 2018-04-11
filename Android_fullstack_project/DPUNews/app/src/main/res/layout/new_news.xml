@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/newsback" >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Haberin Başlığı"
+        android:textStyle="bold|italic"
+        android:id="@+id/baslikTv"
+        android:layout_marginTop="47dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="24dp" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:maxLength="25"
+        android:maxLines="1"
+        android:id="@+id/baslikEt"
+        android:layout_below="@+id/baslikTv"
+        android:layout_centerHorizontal="true"
+        android:textSize="18dp"
+        android:singleLine="true"
+        android:paddingEnd="20dp"
+        android:paddingStart="20dp"
+        android:background="#00000000"
+        android:hint="Haber Başlığı Ekle" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Haberin Tam İçeriği"
+        android:textStyle="bold|italic"
+        android:id="@+id/fullTv"
+        android:textSize="24dp"
+        android:layout_below="@+id/baslikEt"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/fullEt"
+        android:layout_below="@+id/fullTv"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/uploadbttn"
+        android:background="#00000000"
+        android:gravity="top"
+        android:hint="Haberin İçeriğini Yaz" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/dpu_logo"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/fullTv"
+        android:layout_above="@+id/baslikEt" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gönder"
+        android:id="@+id/uploadbttn"
+        android:layout_marginBottom="63dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/baslikEt" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Resim Ekle"
+        android:id="@+id/uploadPic"
+        android:layout_below="@+id/fullEt"
+        android:layout_alignStart="@+id/baslikEt" />
+
+
+</RelativeLayout>

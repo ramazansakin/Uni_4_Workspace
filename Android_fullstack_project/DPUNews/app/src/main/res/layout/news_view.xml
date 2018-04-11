@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="90dp"
+        android:id="@+id/news_image"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="false"
+        android:layout_marginEnd="154dp"
+        android:src="@drawable/news2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="News Title"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:maxLength="25"
+        android:id="@+id/title_news"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="About the News"
+        android:textSize="16dp"
+        android:id="@+id/About"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:maxLength="30"
+        android:layout_below="@+id/title_news"
+        android:layout_alignStart="@+id/title_news" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="UploadTime"
+        android:id="@+id/uploadTime"
+        android:layout_alignBottom="@+id/news_image"
+        android:layout_toEndOf="@+id/news_image" />
+
+</RelativeLayout>

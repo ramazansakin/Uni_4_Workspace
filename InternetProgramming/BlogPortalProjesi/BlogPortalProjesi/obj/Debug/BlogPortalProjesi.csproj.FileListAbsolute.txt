@@ -1,0 +1,30 @@
+c:\users\yenihayat\documents\visual studio 2013\Projects\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll.config
+c:\users\yenihayat\documents\visual studio 2013\Projects\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll
+c:\users\yenihayat\documents\visual studio 2013\Projects\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.pdb
+c:\users\yenihayat\documents\visual studio 2013\Projects\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.dll
+c:\users\yenihayat\documents\visual studio 2013\Projects\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.pdb
+C:\Users\Yenihayat\Documents\Visual Studio 2013\Projects\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.csprojResolveAssemblyReference.cache
+D:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll.config
+D:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll
+D:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.pdb
+D:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.csprojResolveAssemblyReference.cache
+D:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.dll
+D:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.pdb
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll.config
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.pdb
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.csprojResolveAssemblyReference.cache
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.dll
+E:\Eğitim-Program vs\Projects\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.pdb
+C:\Users\User\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll.config
+C:\Users\User\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll
+C:\Users\User\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.pdb
+C:\Users\User\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.dll
+C:\Users\User\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.pdb
+C:\Users\Rmzn\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll.config
+C:\Users\Rmzn\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.dll
+C:\Users\Rmzn\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\bin\BlogPortalProjesi.pdb
+C:\Users\Rmzn\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Rmzn\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.dll
+C:\Users\Rmzn\Desktop\YDK_Proje2\YDK_Proje\YDK_Proje\BlogPortalProjesi\BlogPortalProjesi\obj\Debug\BlogPortalProjesi.pdb

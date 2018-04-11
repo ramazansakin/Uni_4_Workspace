@@ -1,0 +1,11 @@
+ENGÝN Yildirim 
+00:02 (15 saat önce)
+
+Kime: revolution-of-. 
+geçen seneki konuþmalara baktým da ortak olarak ;
+1- Java da multiple inheritance nasýl saðlanýr ? 
+2- bir problem verip bunu recursive olarak kodunu yazdýrma . Özellikle stack ve tree sormuþ ama vizede sadece binary tree var .
+3- YSA derste anlatmýþtý infix,postfix,prefix stack dersinde . Bunlarýn birbirine dönüþtürme ile ilgili bir soru olabilir.
+4- Asimtotik notasyonlarla ilgili bir soru da vardý . Özellikle bir tane kýsa fonksiyon veya kod parçasý verip bunun çalýþma süresüni bulun veya çýklar var bunlardan hangisi olabilir þeklinde
+5- Ayný þekilde asimptotik notasyon olarak kanýt sormuþ ve limitle deðil tümevarým la 
+6- Java da constant obje nasýl yapýlýr tarzý bir soru daha sorulmuþ 
